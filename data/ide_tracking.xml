@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ide_tracking>
+    <environment ide_name="PyCharm" ide_version="2025.2" java_version="21.0.7" os_name="Windows 11" project_name="CodeGRITS" project_path="C:/Users/Dfmei/GitHub/CodeGRITS" scale_x="2.5" scale_y="2.5" screen_size="(1382,864)"/>
+    <archives>
+        <archive id="fileArchive" path="/build.gradle.kts" remark="fileOpened" timestamp="1754767496574"/>
+        <archive id="fileArchive" path="/.gitignore" remark="fileOpened | NotCodeFile | Fail" timestamp="1754767496585"/>
+    </archives>
+    <actions>
+        <action id="" path="" timestamp="1754767500798"/>
+        <action id="" path="/.gitignore" timestamp="1754767504606"/>
+        <action id="CodeGRITS.PauseResumeTracking" path="/.gitignore" timestamp="1754767509928"/>
+    </actions>
+    <typings/>
+    <files/>
+    <mouses>
+        <mouse id="mouseMoved" path="/.gitignore" timestamp="1754767496626" x="612" y="173"/>
+        <mouse id="mousePressed" path="/.gitignore" timestamp="1754767496630" x="592" y="136"/>
+        <mouse id="mouseReleased" path="/.gitignore" timestamp="1754767496636" x="592" y="136"/>
+        <mouse id="mouseClicked" path="/.gitignore" timestamp="1754767496638" x="592" y="136"/>
+        <mouse id="mouseMoved" path="/.gitignore" timestamp="1754767496679" x="611" y="171"/>
+        <mouse id="mouseMoved" path="/.gitignore" timestamp="1754767496710" x="610" y="171"/>
+        <mouse id="mouseMoved" path="/.gitignore" timestamp="1754767496716" x="609" y="171"/>
+        <mouse id="mouseMoved" path="/.gitignore" timestamp="1754767496723" x="609" y="170"/>
+        <mouse id="mouseMoved" path="/.gitignore" timestamp="1754767496730" x="608" y="170"/>
+        <mouse id="mouseMoved" path="/.gitignore" timestamp="1754767496739" x="607" y="170"/>
+        <mouse id="mouseMoved" path="/.gitignore" timestamp="1754767496744" x="607" y="170"/>
+        <mouse id="mouseMoved" path="/.gitignore" timestamp="1754767496751" x="606" y="170"/>
+        <mouse id="mouseMoved" path="/.gitignore" timestamp="1754767496758" x="604" y="170"/>
+        <mouse id="mouseMoved" path="/.gitignore" timestamp="1754767496766" x="603" y="169"/>
+        <mouse id="mouseMoved" path="/.gitignore" timestamp="1754767496772" x="602" y="169"/>
+        <mouse id="mouseMoved" path="/.gitignore" timestamp="1754767496780" x="599" y="168"/>
+        <mouse id="mouseMoved" path="/.gitignore" timestamp="1754767496787" x="598" y="168"/>
+        <mouse id="mouseMoved" path="/.gitignore" timestamp="1754767496798" x="597" y="168"/>
+        <mouse id="mouseMoved" path="/.gitignore" timestamp="1754767496803" x="595" y="168"/>
+        <mouse id="mouseMoved" path="/.gitignore" timestamp="1754767496809" x="594" y="168"/>
+        <mouse id="mouseMoved" path="/.gitignore" timestamp="1754767496815" x="594" y="168"/>
+        <mouse id="mouseMoved" path="/.gitignore" timestamp="1754767496829" x="593" y="168"/>
+        <mouse id="mouseMoved" path="/.gitignore" timestamp="1754767496836" x="592" y="168"/>
+        <mouse id="mouseMoved" path="/.gitignore" timestamp="1754767496850" x="592" y="168"/>
+        <mouse id="mouseMoved" path="/.gitignore" timestamp="1754767496879" x="592" y="169"/>
+        <mouse id="mousePressed" path="/.gitignore" timestamp="1754767496900" x="592" y="169"/>
+        <mouse id="mouseDragged" path="/.gitignore" timestamp="1754767497090" x="594" y="171"/>
+        <mouse id="mouseDragged" path="/.gitignore" timestamp="1754767497099" x="598" y="176"/>
+        <mouse id="mouseDragged" path="/.gitignore" timestamp="1754767497112" x="608" y="186"/>
+        <mouse id="mouseDragged" path="/.gitignore" timestamp="1754767497134" x="617" y="195"/>
+        <mouse id="mouseDragged" path="/.gitignore" timestamp="1754767497138" x="621" y="200"/>
+        <mouse id="mouseDragged" path="/.gitignore" timestamp="1754767497153" x="628" y="207"/>
+        <mouse id="mouseDragged" path="/.gitignore" timestamp="1754767497158" x="633" y="211"/>
+        <mouse id="mouseDragged" path="/.gitignore" timestamp="1754767497163" x="636" y="215"/>
+        <mouse id="mouseDragged" path="/.gitignore" timestamp="1754767497168" x="640" y="218"/>
+        <mouse id="mouseDragged" path="/.gitignore" timestamp="1754767497175" x="644" y="222"/>
+        <mouse id="mouseDragged" path="/.gitignore" timestamp="1754767497183" x="647" y="226"/>
+        <mouse id="mouseDragged" path="/.gitignore" timestamp="1754767497189" x="650" y="229"/>
+        <mouse id="mouseDragged" path="/.gitignore" timestamp="1754767497196" x="654" y="233"/>
+        <mouse id="mouseDragged" path="/.gitignore" timestamp="1754767497202" x="657" y="236"/>
+        <mouse id="mouseDragged" path="/.gitignore" timestamp="1754767497209" x="661" y="239"/>
+        <mouse id="mouseDragged" path="/.gitignore" timestamp="1754767497217" x="663" y="242"/>
+        <mouse id="mouseDragged" path="/.gitignore" timestamp="1754767497224" x="667" y="245"/>
+        <mouse id="mouseDragged" path="/.gitignore" timestamp="1754767497230" x="670" y="248"/>
+        <mouse id="mouseDragged" path="/.gitignore" timestamp="1754767497238" x="674" y="252"/>
+        <mouse id="mouseDragged" path="/.gitignore" timestamp="1754767497245" x="678" y="256"/>
+        <mouse id="mouseDragged" path="/.gitignore" timestamp="1754767497252" x="682" y="261"/>
+        <mouse id="mouseDragged" path="/.gitignore" timestamp="1754767497259" x="686" y="264"/>
+        <mouse id="mouseDragged" path="/.gitignore" timestamp="1754767497265" x="691" y="269"/>
+        <mouse id="mouseDragged" path="/.gitignore" timestamp="1754767497273" x="696" y="274"/>
+        <mouse id="mouseDragged" path="/.gitignore" timestamp="1754767497281" x="701" y="278"/>
+        <mouse id="mouseDragged" path="/.gitignore" timestamp="1754767497287" x="706" y="283"/>
+        <mouse id="mouseDragged" path="/.gitignore" timestamp="1754767497294" x="711" y="288"/>
+        <mouse id="mouseDragged" path="/.gitignore" timestamp="1754767497301" x="714" y="292"/>
+        <mouse id="mouseDragged" path="/.gitignore" timestamp="1754767497308" x="719" y="296"/>
+        <mouse id="mouseDragged" path="/.gitignore" timestamp="1754767497315" x="723" y="300"/>
+        <mouse id="mouseDragged" path="/.gitignore" timestamp="1754767497322" x="726" y="303"/>
+        <mouse id="mouseDragged" path="/.gitignore" timestamp="1754767497329" x="729" y="306"/>
+        <mouse id="mouseDragged" path="/.gitignore" timestamp="1754767497336" x="731" y="308"/>
+        <mouse id="mouseDragged" path="/.gitignore" timestamp="1754767497343" x="732" y="310"/>
+        <mouse id="mouseDragged" path="/.gitignore" timestamp="1754767497350" x="734" y="310"/>
+        <mouse id="mouseDragged" path="/.gitignore" timestamp="1754767497357" x="735" y="312"/>
+        <mouse id="mouseDragged" path="/.gitignore" timestamp="1754767497364" x="736" y="313"/>
+        <mouse id="mouseDragged" path="/.gitignore" timestamp="1754767497372" x="737" y="314"/>
+        <mouse id="mouseDragged" path="/.gitignore" timestamp="1754767497379" x="738" y="314"/>
+        <mouse id="mouseDragged" path="/.gitignore" timestamp="1754767497386" x="738" y="315"/>
+        <mouse id="mouseDragged" path="/.gitignore" timestamp="1754767497392" x="739" y="316"/>
+        <mouse id="mouseDragged" path="/.gitignore" timestamp="1754767497400" x="740" y="317"/>
+        <mouse id="mouseDragged" path="/.gitignore" timestamp="1754767497408" x="741" y="318"/>
+        <mouse id="mouseDragged" path="/.gitignore" timestamp="1754767497413" x="742" y="319"/>
+        <mouse id="mouseDragged" path="/.gitignore" timestamp="1754767497421" x="742" y="319"/>
+        <mouse id="mouseDragged" path="/.gitignore" timestamp="1754767497428" x="743" y="321"/>
+        <mouse id="mouseDragged" path="/.gitignore" timestamp="1754767497435" x="743" y="321"/>
+        <mouse id="mouseDragged" path="/.gitignore" timestamp="1754767497442" x="744" y="322"/>
+        <mouse id="mouseDragged" path="/.gitignore" timestamp="1754767497449" x="744" y="322"/>
+        <mouse id="mouseDragged" path="/.gitignore" timestamp="1754767497456" x="744" y="323"/>
+        <mouse id="mouseDragged" path="/.gitignore" timestamp="1754767497470" x="745" y="324"/>
+        <mouse id="mouseDragged" path="/.gitignore" timestamp="1754767497485" x="745" y="324"/>
+        <mouse id="mouseDragged" path="/.gitignore" timestamp="1754767497498" x="745" y="325"/>
+        <mouse id="mouseDragged" path="/.gitignore" timestamp="1754767497540" x="745" y="325"/>
+        <mouse id="mouseDragged" path="/.gitignore" timestamp="1754767497554" x="746" y="326"/>
+        <mouse id="mouseDragged" path="/.gitignore" timestamp="1754767497569" x="746" y="326"/>
+        <mouse id="mouseDragged" path="/.gitignore" timestamp="1754767497576" x="746" y="327"/>
+        <mouse id="mouseDragged" path="/.gitignore" timestamp="1754767497590" x="746" y="328"/>
+        <mouse id="mouseDragged" path="/.gitignore" timestamp="1754767497604" x="746" y="328"/>
+        <mouse id="mouseReleased" path="/.gitignore" timestamp="1754767497618" x="746" y="328"/>
+        <mouse id="mouseMoved" path="/.gitignore" timestamp="1754767498125" x="745" y="329"/>
+        <mouse id="mouseMoved" path="/.gitignore" timestamp="1754767498132" x="742" y="332"/>
+        <mouse id="mouseMoved" path="/.gitignore" timestamp="1754767498140" x="738" y="334"/>
+        <mouse id="mouseMoved" path="/.gitignore" timestamp="1754767498147" x="733" y="338"/>
+        <mouse id="mouseMoved" path="/.gitignore" timestamp="1754767498153" x="728" y="342"/>
+        <mouse id="mouseMoved" path="/.gitignore" timestamp="1754767498161" x="722" y="347"/>
+        <mouse id="mouseMoved" path="/.gitignore" timestamp="1754767498169" x="715" y="352"/>
+        <mouse id="mouseMoved" path="/.gitignore" timestamp="1754767498174" x="708" y="358"/>
+        <mouse id="mouseMoved" path="/.gitignore" timestamp="1754767498182" x="702" y="363"/>
+        <mouse id="mouseMoved" path="/.gitignore" timestamp="1754767498189" x="695" y="367"/>
+        <mouse id="mouseMoved" path="/.gitignore" timestamp="1754767498196" x="686" y="372"/>
+        <mouse id="mouseMoved" path="/.gitignore" timestamp="1754767498203" x="678" y="378"/>
+        <mouse id="mouseMoved" path="/.gitignore" timestamp="1754767498210" x="668" y="382"/>
+        <mouse id="mouseMoved" path="/.gitignore" timestamp="1754767498218" x="660" y="390"/>
+        <mouse id="mouseMoved" path="/.gitignore" timestamp="1754767498224" x="648" y="400"/>
+        <mouse id="mouseMoved" path="/.gitignore" timestamp="1754767498231" x="640" y="409"/>
+        <mouse id="mouseMoved" path="/.gitignore" timestamp="1754767498238" x="634" y="414"/>
+        <mouse id="mouseMoved" path="/.gitignore" timestamp="1754767498245" x="629" y="417"/>
+        <mouse id="mouseMoved" path="/.gitignore" timestamp="1754767498252" x="627" y="418"/>
+        <mouse id="mouseMoved" path="/.gitignore" timestamp="1754767498261" x="625" y="418"/>
+        <mouse id="mouseMoved" path="/.gitignore" timestamp="1754767498267" x="624" y="419"/>
+        <mouse id="mouseMoved" path="/.gitignore" timestamp="1754767498273" x="624" y="420"/>
+        <mouse id="mouseMoved" path="/.gitignore" timestamp="1754767498283" x="622" y="420"/>
+        <mouse id="mouseMoved" path="/.gitignore" timestamp="1754767498287" x="622" y="420"/>
+        <mouse id="mouseMoved" path="/.gitignore" timestamp="1754767498295" x="621" y="420"/>
+        <mouse id="mouseMoved" path="/.gitignore" timestamp="1754767498301" x="621" y="420"/>
+        <mouse id="mouseMoved" path="/.gitignore" timestamp="1754767498309" x="620" y="420"/>
+        <mouse id="mouseMoved" path="/.gitignore" timestamp="1754767498316" x="620" y="419"/>
+        <mouse id="mouseMoved" path="/.gitignore" timestamp="1754767498330" x="620" y="419"/>
+        <mouse id="mouseMoved" path="/.gitignore" timestamp="1754767498344" x="619" y="418"/>
+        <mouse id="mouseMoved" path="/.gitignore" timestamp="1754767498351" x="618" y="418"/>
+        <mouse id="mouseMoved" path="/.gitignore" timestamp="1754767498358" x="618" y="417"/>
+        <mouse id="mouseMoved" path="/.gitignore" timestamp="1754767498367" x="616" y="416"/>
+        <mouse id="mouseMoved" path="/.gitignore" timestamp="1754767498372" x="614" y="415"/>
+        <mouse id="mouseMoved" path="/.gitignore" timestamp="1754767498379" x="612" y="414"/>
+        <mouse id="mouseMoved" path="/.gitignore" timestamp="1754767498386" x="609" y="411"/>
+        <mouse id="mouseMoved" path="/.gitignore" timestamp="1754767498393" x="606" y="409"/>
+        <mouse id="mouseMoved" path="/.gitignore" timestamp="1754767498400" x="603" y="407"/>
+        <mouse id="mouseMoved" path="/.gitignore" timestamp="1754767498409" x="600" y="404"/>
+        <mouse id="mouseMoved" path="/.gitignore" timestamp="1754767498415" x="596" y="403"/>
+        <mouse id="mouseMoved" path="/.gitignore" timestamp="1754767498421" x="593" y="400"/>
+        <mouse id="mouseMoved" path="/.gitignore" timestamp="1754767498428" x="589" y="399"/>
+        <mouse id="mouseMoved" path="/.gitignore" timestamp="1754767498435" x="584" y="398"/>
+        <mouse id="mouseMoved" path="/.gitignore" timestamp="1754767498443" x="580" y="397"/>
+        <mouse id="mouseMoved" path="/.gitignore" timestamp="1754767498449" x="574" y="397"/>
+        <mouse id="mouseMoved" path="/.gitignore" timestamp="1754767498458" x="569" y="396"/>
+        <mouse id="mouseMoved" path="/.gitignore" timestamp="1754767498464" x="562" y="396"/>
+        <mouse id="mouseMoved" path="/.gitignore" timestamp="1754767498471" x="555" y="396"/>
+        <mouse id="mouseMoved" path="/.gitignore" timestamp="1754767498479" x="550" y="396"/>
+        <mouse id="mouseMoved" path="/.gitignore" timestamp="1754767498485" x="544" y="396"/>
+        <mouse id="mouseMoved" path="/.gitignore" timestamp="1754767498494" x="538" y="396"/>
+        <mouse id="mouseMoved" path="/.gitignore" timestamp="1754767498499" x="532" y="396"/>
+        <mouse id="mouseMoved" path="/.gitignore" timestamp="1754767498506" x="526" y="398"/>
+        <mouse id="mouseMoved" path="/.gitignore" timestamp="1754767498513" x="522" y="399"/>
+        <mouse id="mouseMoved" path="/.gitignore" timestamp="1754767498520" x="518" y="400"/>
+        <mouse id="mouseMoved" path="/.gitignore" timestamp="1754767498527" x="516" y="402"/>
+        <mouse id="mouseMoved" path="/.gitignore" timestamp="1754767498534" x="512" y="402"/>
+        <mouse id="mouseMoved" path="/.gitignore" timestamp="1754767501763" x="513" y="206"/>
+        <mouse id="mouseMoved" path="/.gitignore" timestamp="1754767501771" x="525" y="208"/>
+        <mouse id="mouseMoved" path="/.gitignore" timestamp="1754767501778" x="537" y="211"/>
+        <mouse id="mouseMoved" path="/.gitignore" timestamp="1754767501784" x="548" y="213"/>
+        <mouse id="mouseMoved" path="/.gitignore" timestamp="1754767501792" x="559" y="215"/>
+        <mouse id="mouseMoved" path="/.gitignore" timestamp="1754767501798" x="570" y="217"/>
+        <mouse id="mouseMoved" path="/.gitignore" timestamp="1754767501806" x="581" y="220"/>
+        <mouse id="mouseMoved" path="/.gitignore" timestamp="1754767501812" x="590" y="222"/>
+        <mouse id="mouseMoved" path="/.gitignore" timestamp="1754767501819" x="600" y="227"/>
+        <mouse id="mouseMoved" path="/.gitignore" timestamp="1754767501827" x="610" y="231"/>
+        <mouse id="mouseMoved" path="/.gitignore" timestamp="1754767501834" x="618" y="236"/>
+        <mouse id="mouseMoved" path="/.gitignore" timestamp="1754767501841" x="627" y="240"/>
+        <mouse id="mouseMoved" path="/.gitignore" timestamp="1754767501848" x="634" y="245"/>
+        <mouse id="mouseMoved" path="/.gitignore" timestamp="1754767501853" x="642" y="250"/>
+        <mouse id="mouseMoved" path="/.gitignore" timestamp="1754767501861" x="649" y="257"/>
+        <mouse id="mouseMoved" path="/.gitignore" timestamp="1754767501867" x="655" y="262"/>
+        <mouse id="mouseMoved" path="/.gitignore" timestamp="1754767501876" x="662" y="268"/>
+        <mouse id="mouseMoved" path="/.gitignore" timestamp="1754767501882" x="669" y="274"/>
+        <mouse id="mouseMoved" path="/.gitignore" timestamp="1754767501890" x="676" y="282"/>
+        <mouse id="mouseMoved" path="/.gitignore" timestamp="1754767501896" x="683" y="289"/>
+        <mouse id="mouseMoved" path="/.gitignore" timestamp="1754767501906" x="688" y="297"/>
+        <mouse id="mouseMoved" path="/.gitignore" timestamp="1754767501911" x="693" y="304"/>
+        <mouse id="mouseMoved" path="/.gitignore" timestamp="1754767501918" x="698" y="312"/>
+        <mouse id="mouseMoved" path="/.gitignore" timestamp="1754767501925" x="703" y="322"/>
+        <mouse id="mouseMoved" path="/.gitignore" timestamp="1754767501932" x="707" y="331"/>
+        <mouse id="mouseMoved" path="/.gitignore" timestamp="1754767501938" x="710" y="339"/>
+        <mouse id="mouseMoved" path="/.gitignore" timestamp="1754767501947" x="715" y="349"/>
+        <mouse id="mouseMoved" path="/.gitignore" timestamp="1754767501952" x="718" y="357"/>
+        <mouse id="mouseMoved" path="/.gitignore" timestamp="1754767501960" x="720" y="366"/>
+        <mouse id="mouseMoved" path="/.gitignore" timestamp="1754767501967" x="721" y="374"/>
+        <mouse id="mouseMoved" path="/.gitignore" timestamp="1754767501976" x="723" y="381"/>
+        <mouse id="mouseMoved" path="/.gitignore" timestamp="1754767501981" x="724" y="386"/>
+        <mouse id="mouseMoved" path="/.gitignore" timestamp="1754767501988" x="725" y="391"/>
+        <mouse id="mouseMoved" path="/.gitignore" timestamp="1754767501995" x="725" y="395"/>
+        <mouse id="mouseMoved" path="/.gitignore" timestamp="1754767502003" x="726" y="399"/>
+        <mouse id="mouseMoved" path="/.gitignore" timestamp="1754767502009" x="726" y="402"/>
+        <mouse id="mouseMoved" path="/.gitignore" timestamp="1754767502016" x="726" y="408"/>
+        <mouse id="mouseMoved" path="/.gitignore" timestamp="1754767502023" x="726" y="415"/>
+        <mouse id="mouseMoved" path="/.gitignore" timestamp="1754767502030" x="726" y="423"/>
+        <mouse id="mouseMoved" path="/.gitignore" timestamp="1754767502037" x="726" y="427"/>
+        <mouse id="mouseMoved" path="/.gitignore" timestamp="1754767502045" x="726" y="430"/>
+        <mouse id="mouseMoved" path="/.gitignore" timestamp="1754767502052" x="726" y="432"/>
+        <mouse id="mouseMoved" path="/.gitignore" timestamp="1754767502061" x="726" y="434"/>
+        <mouse id="mouseMoved" path="/.gitignore" timestamp="1754767502068" x="726" y="435"/>
+        <mouse id="mouseMoved" path="/.gitignore" timestamp="1754767502080" x="726" y="436"/>
+        <mouse id="mouseMoved" path="/.gitignore" timestamp="1754767502087" x="726" y="436"/>
+        <mouse id="mouseMoved" path="/.gitignore" timestamp="1754767502151" x="726" y="435"/>
+        <mouse id="mousePressed" path="/.gitignore" timestamp="1754767502228" x="726" y="435"/>
+        <mouse id="mouseReleased" path="/.gitignore" timestamp="1754767502390" x="726" y="435"/>
+        <mouse id="mouseClicked" path="/.gitignore" timestamp="1754767502391" x="726" y="435"/>
+        <mouse id="mouseMoved" path="/.gitignore" timestamp="1754767502722" x="725" y="435"/>
+        <mouse id="mouseMoved" path="/.gitignore" timestamp="1754767502729" x="725" y="434"/>
+        <mouse id="mouseMoved" path="/.gitignore" timestamp="1754767502736" x="724" y="434"/>
+        <mouse id="mouseMoved" path="/.gitignore" timestamp="1754767502751" x="724" y="433"/>
+        <mouse id="mouseMoved" path="/.gitignore" timestamp="1754767502758" x="724" y="433"/>
+        <mouse id="mouseMoved" path="/.gitignore" timestamp="1754767502772" x="723" y="432"/>
+        <mouse id="mouseMoved" path="/.gitignore" timestamp="1754767502876" x="723" y="432"/>
+        <mouse id="mouseMoved" path="/.gitignore" timestamp="1754767502893" x="722" y="432"/>
+        <mouse id="mouseMoved" path="/.gitignore" timestamp="1754767502904" x="722" y="431"/>
+        <mouse id="mouseMoved" path="/.gitignore" timestamp="1754767502911" x="722" y="431"/>
+        <mouse id="mouseMoved" path="/.gitignore" timestamp="1754767502918" x="722" y="430"/>
+        <mouse id="mouseMoved" path="/.gitignore" timestamp="1754767502926" x="721" y="430"/>
+        <mouse id="mouseMoved" path="/.gitignore" timestamp="1754767502932" x="720" y="429"/>
+        <mouse id="mouseMoved" path="/.gitignore" timestamp="1754767502939" x="720" y="428"/>
+        <mouse id="mouseMoved" path="/.gitignore" timestamp="1754767502947" x="719" y="426"/>
+        <mouse id="mouseMoved" path="/.gitignore" timestamp="1754767502953" x="718" y="424"/>
+        <mouse id="mouseMoved" path="/.gitignore" timestamp="1754767502961" x="717" y="423"/>
+        <mouse id="mouseMoved" path="/.gitignore" timestamp="1754767502967" x="715" y="422"/>
+        <mouse id="mouseMoved" path="/.gitignore" timestamp="1754767502975" x="715" y="421"/>
+        <mouse id="mouseMoved" path="/.gitignore" timestamp="1754767502981" x="714" y="420"/>
+        <mouse id="mouseMoved" path="/.gitignore" timestamp="1754767502988" x="712" y="419"/>
+        <mouse id="mouseMoved" path="/.gitignore" timestamp="1754767502998" x="711" y="418"/>
+        <mouse id="mouseMoved" path="/.gitignore" timestamp="1754767503005" x="709" y="417"/>
+        <mouse id="mouseMoved" path="/.gitignore" timestamp="1754767503011" x="708" y="416"/>
+        <mouse id="mouseMoved" path="/.gitignore" timestamp="1754767503018" x="706" y="415"/>
+        <mouse id="mouseMoved" path="/.gitignore" timestamp="1754767503024" x="705" y="414"/>
+        <mouse id="mouseMoved" path="/.gitignore" timestamp="1754767503031" x="704" y="412"/>
+        <mouse id="mouseMoved" path="/.gitignore" timestamp="1754767503038" x="702" y="411"/>
+        <mouse id="mouseMoved" path="/.gitignore" timestamp="1754767503045" x="700" y="410"/>
+        <mouse id="mouseMoved" path="/.gitignore" timestamp="1754767503052" x="698" y="409"/>
+        <mouse id="mouseMoved" path="/.gitignore" timestamp="1754767503059" x="696" y="408"/>
+        <mouse id="mouseMoved" path="/.gitignore" timestamp="1754767503067" x="694" y="406"/>
+        <mouse id="mouseMoved" path="/.gitignore" timestamp="1754767503074" x="692" y="404"/>
+        <mouse id="mouseMoved" path="/.gitignore" timestamp="1754767503081" x="689" y="402"/>
+        <mouse id="mouseMoved" path="/.gitignore" timestamp="1754767503088" x="686" y="400"/>
+        <mouse id="mouseMoved" path="/.gitignore" timestamp="1754767503095" x="682" y="397"/>
+        <mouse id="mouseMoved" path="/.gitignore" timestamp="1754767503101" x="678" y="393"/>
+        <mouse id="mouseMoved" path="/.gitignore" timestamp="1754767503109" x="673" y="390"/>
+        <mouse id="mouseMoved" path="/.gitignore" timestamp="1754767503116" x="668" y="384"/>
+        <mouse id="mouseMoved" path="/.gitignore" timestamp="1754767503123" x="661" y="378"/>
+        <mouse id="mouseMoved" path="/.gitignore" timestamp="1754767503130" x="654" y="371"/>
+        <mouse id="mouseMoved" path="/.gitignore" timestamp="1754767503137" x="645" y="363"/>
+        <mouse id="mouseMoved" path="/.gitignore" timestamp="1754767503144" x="634" y="353"/>
+        <mouse id="mouseMoved" path="/.gitignore" timestamp="1754767503152" x="624" y="343"/>
+        <mouse id="mouseMoved" path="/.gitignore" timestamp="1754767503158" x="610" y="327"/>
+        <mouse id="mouseMoved" path="/.gitignore" timestamp="1754767503165" x="594" y="309"/>
+        <mouse id="mouseMoved" path="/.gitignore" timestamp="1754767503171" x="576" y="291"/>
+        <mouse id="mouseMoved" path="/.gitignore" timestamp="1754767503180" x="556" y="270"/>
+        <mouse id="mouseMoved" path="/.gitignore" timestamp="1754767503187" x="540" y="250"/>
+        <mouse id="mouseMoved" path="/.gitignore" timestamp="1754767503194" x="522" y="230"/>
+    </mouses>
+    <carets>
+        <caret column="2" id="caretPositionChanged" line="0" path="/.gitignore" timestamp="1754767496632"/>
+        <caret column="2" id="caretPositionChanged" line="2" path="/.gitignore" timestamp="1754767496904"/>
+        <caret column="3" id="caretPositionChanged" line="2" path="/.gitignore" timestamp="1754767497100"/>
+        <caret column="4" id="caretPositionChanged" line="2" path="/.gitignore" timestamp="1754767497113"/>
+        <caret column="5" id="caretPositionChanged" line="3" path="/.gitignore" timestamp="1754767497135"/>
+        <caret column="6" id="caretPositionChanged" line="3" path="/.gitignore" timestamp="1754767497139"/>
+        <caret column="7" id="caretPositionChanged" line="3" path="/.gitignore" timestamp="1754767497154"/>
+        <caret column="7" id="caretPositionChanged" line="4" path="/.gitignore" timestamp="1754767497159"/>
+        <caret column="8" id="caretPositionChanged" line="4" path="/.gitignore" timestamp="1754767497165"/>
+        <caret column="9" id="caretPositionChanged" line="4" path="/.gitignore" timestamp="1754767497175"/>
+        <caret column="10" id="caretPositionChanged" line="4" path="/.gitignore" timestamp="1754767497190"/>
+        <caret column="0" id="caretPositionChanged" line="5" path="/.gitignore" timestamp="1754767497196"/>
+        <caret column="13" id="caretPositionChanged" line="6" path="/.gitignore" timestamp="1754767497245"/>
+        <caret column="14" id="caretPositionChanged" line="6" path="/.gitignore" timestamp="1754767497253"/>
+        <caret column="15" id="caretPositionChanged" line="6" path="/.gitignore" timestamp="1754767497266"/>
+        <caret column="16" id="caretPositionChanged" line="7" path="/.gitignore" timestamp="1754767497282"/>
+        <caret column="17" id="caretPositionChanged" line="7" path="/.gitignore" timestamp="1754767497295"/>
+        <caret column="19" id="caretPositionChanged" line="8" path="/.gitignore" timestamp="1754767497315"/>
+        <caret column="20" id="caretPositionChanged" line="8" path="/.gitignore" timestamp="1754767497336"/>
+        <caret column="21" id="caretPositionChanged" line="8" path="/.gitignore" timestamp="1754767497380"/>
+        <caret column="18" id="caretPositionChanged" line="9" path="/.gitignore" timestamp="1754767497415"/>
+        <caret column="4" id="caretPositionChanged" line="14" path="/.gitignore" timestamp="1754767502229"/>
+    </carets>
+    <selections>
+        <selection end_position="2:2" id="selectionChanged" path="/.gitignore" selected_text="" start_position="2:2" timestamp="1754767497092"/>
+        <selection end_position="2:3" id="selectionChanged" path="/.gitignore" selected_text="r" start_position="2:2" timestamp="1754767497105"/>
+        <selection end_position="2:4" id="selectionChanged" path="/.gitignore" selected_text="ra" start_position="2:2" timestamp="1754767497113"/>
+        <selection end_position="3:5" id="selectionChanged" path="/.gitignore" selected_text="radle/wrapper/gradle-wrapper.jar&#10;!**/s" start_position="2:2" timestamp="1754767497136"/>
+        <selection end_position="3:6" id="selectionChanged" path="/.gitignore" selected_text="radle/wrapper/gradle-wrapper.jar&#10;!**/sr" start_position="2:2" timestamp="1754767497139"/>
+        <selection end_position="3:7" id="selectionChanged" path="/.gitignore" selected_text="radle/wrapper/gradle-wrapper.jar&#10;!**/src" start_position="2:2" timestamp="1754767497154"/>
+        <selection end_position="4:7" id="selectionChanged" path="/.gitignore" selected_text="radle/wrapper/gradle-wrapper.jar&#10;!**/src/main/**/build/&#10;!**/src" start_position="2:2" timestamp="1754767497160"/>
+        <selection end_position="4:8" id="selectionChanged" path="/.gitignore" selected_text="radle/wrapper/gradle-wrapper.jar&#10;!**/src/main/**/build/&#10;!**/src/" start_position="2:2" timestamp="1754767497165"/>
+        <selection end_position="4:9" id="selectionChanged" path="/.gitignore" selected_text="radle/wrapper/gradle-wrapper.jar&#10;!**/src/main/**/build/&#10;!**/src/t" start_position="2:2" timestamp="1754767497176"/>
+        <selection end_position="4:10" id="selectionChanged" path="/.gitignore" selected_text="radle/wrapper/gradle-wrapper.jar&#10;!**/src/main/**/build/&#10;!**/src/te" start_position="2:2" timestamp="1754767497190"/>
+        <selection end_position="5:0" id="selectionChanged" path="/.gitignore" selected_text="radle/wrapper/gradle-wrapper.jar&#10;!**/src/main/**/build/&#10;!**/src/test/**/build/&#10;" start_position="2:2" timestamp="1754767497196"/>
+        <selection end_position="6:13" id="selectionChanged" path="/.gitignore" selected_text="radle/wrapper/gradle-wrapper.jar&#10;!**/src/main/**/build/&#10;!**/src/test/**/build/&#10;&#10;### IntelliJ " start_position="2:2" timestamp="1754767497246"/>
+        <selection end_position="6:14" id="selectionChanged" path="/.gitignore" selected_text="radle/wrapper/gradle-wrapper.jar&#10;!**/src/main/**/build/&#10;!**/src/test/**/build/&#10;&#10;### IntelliJ I" start_position="2:2" timestamp="1754767497253"/>
+        <selection end_position="6:15" id="selectionChanged" path="/.gitignore" selected_text="radle/wrapper/gradle-wrapper.jar&#10;!**/src/main/**/build/&#10;!**/src/test/**/build/&#10;&#10;### IntelliJ ID" start_position="2:2" timestamp="1754767497266"/>
+        <selection end_position="7:16" id="selectionChanged" path="/.gitignore" selected_text="radle/wrapper/gradle-wrapper.jar&#10;!**/src/main/**/build/&#10;!**/src/test/**/build/&#10;&#10;### IntelliJ IDEA ###&#10;.idea/modules.xm" start_position="2:2" timestamp="1754767497282"/>
+        <selection end_position="7:17" id="selectionChanged" path="/.gitignore" selected_text="radle/wrapper/gradle-wrapper.jar&#10;!**/src/main/**/build/&#10;!**/src/test/**/build/&#10;&#10;### IntelliJ IDEA ###&#10;.idea/modules.xml" start_position="2:2" timestamp="1754767497295"/>
+        <selection end_position="8:19" id="selectionChanged" path="/.gitignore" selected_text="radle/wrapper/gradle-wrapper.jar&#10;!**/src/main/**/build/&#10;!**/src/test/**/build/&#10;&#10;### IntelliJ IDEA ###&#10;.idea/modules.xml&#10;.idea/jarRepositori" start_position="2:2" timestamp="1754767497316"/>
+        <selection end_position="8:20" id="selectionChanged" path="/.gitignore" selected_text="radle/wrapper/gradle-wrapper.jar&#10;!**/src/main/**/build/&#10;!**/src/test/**/build/&#10;&#10;### IntelliJ IDEA ###&#10;.idea/modules.xml&#10;.idea/jarRepositorie" start_position="2:2" timestamp="1754767497337"/>
+        <selection end_position="8:21" id="selectionChanged" path="/.gitignore" selected_text="radle/wrapper/gradle-wrapper.jar&#10;!**/src/main/**/build/&#10;!**/src/test/**/build/&#10;&#10;### IntelliJ IDEA ###&#10;.idea/modules.xml&#10;.idea/jarRepositories" start_position="2:2" timestamp="1754767497381"/>
+        <selection end_position="9:18" id="selectionChanged" path="/.gitignore" selected_text="radle/wrapper/gradle-wrapper.jar&#10;!**/src/main/**/build/&#10;!**/src/test/**/build/&#10;&#10;### IntelliJ IDEA ###&#10;.idea/modules.xml&#10;.idea/jarRepositories.xml&#10;.idea/compiler.xml" start_position="2:2" timestamp="1754767497415"/>
+        <selection end_position="14:4" id="selectionChanged" path="/.gitignore" selected_text="" start_position="14:4" timestamp="1754767502229"/>
+    </selections>
+    <visible_areas/>
+</ide_tracking>

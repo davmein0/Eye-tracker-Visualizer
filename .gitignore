@@ -2,5 +2,12 @@
 */shelf/
 */workspace.xml
 
-/node_modules
-/venv
+**/node_modules
+**/venv
+*/copilot*
+**/__pycache__*
+**.iml
+.idea/Eye-tracker Visualizer.iml
+*.iml
+'*\Eye-tracker Visualizer.iml'
+**./idea**

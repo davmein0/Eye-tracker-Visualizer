@@ -22,61 +22,63 @@ interface GazeData {
   screenHeight: number;
 }
 
+
 // Sample eye-tracking data for code reading patterns
-const sampleData: GazeData = {
-  screenWidth: 900,
-  screenHeight: 700,
-  fixations: [
-    // Function signature - high attention
-    { id: 1, x: 120, y: 120, duration: 600, timestamp: 0 },
-    { id: 2, x: 200, y: 120, duration: 450, timestamp: 600 },
-    { id: 3, x: 280, y: 120, duration: 350, timestamp: 1050 },
-    
-    // Opening brace scan
-    { id: 4, x: 380, y: 120, duration: 200, timestamp: 1400 },
-    
-    // Variable declaration - careful reading
-    { id: 5, x: 150, y: 160, duration: 500, timestamp: 1600 },
-    { id: 6, x: 250, y: 160, duration: 400, timestamp: 2100 },
-    { id: 7, x: 350, y: 160, duration: 300, timestamp: 2500 },
-    
-    // For loop - complex logic attention
-    { id: 8, x: 140, y: 200, duration: 800, timestamp: 2800 },
-    { id: 9, x: 220, y: 200, duration: 600, timestamp: 3600 },
-    { id: 10, x: 300, y: 200, duration: 500, timestamp: 4200 },
-    { id: 11, x: 380, y: 200, duration: 400, timestamp: 4700 },
-    
-    // Inside loop - scanning condition
-    { id: 12, x: 180, y: 240, duration: 700, timestamp: 5100 },
-    { id: 13, x: 280, y: 240, duration: 600, timestamp: 5800 },
-    { id: 14, x: 420, y: 240, duration: 350, timestamp: 6400 },
-    
-    // Array access pattern
-    { id: 15, x: 200, y: 280, duration: 450, timestamp: 6750 },
-    { id: 16, x: 300, y: 280, duration: 500, timestamp: 7200 },
-    { id: 17, x: 400, y: 280, duration: 300, timestamp: 7700 },
-    
-    // Return statement - quick scan
-    { id: 18, x: 160, y: 360, duration: 400, timestamp: 8000 },
-    { id: 19, x: 240, y: 360, duration: 350, timestamp: 8400 },
-    
-    // Function call - detailed inspection
-    { id: 20, x: 150, y: 440, duration: 650, timestamp: 8750 },
-    { id: 21, x: 250, y: 440, duration: 550, timestamp: 9400 },
-    { id: 22, x: 350, y: 440, duration: 400, timestamp: 9950 },
-    
-    // Comment reading
-    { id: 23, x: 200, y: 480, duration: 800, timestamp: 10350 },
-    { id: 24, x: 350, y: 480, duration: 600, timestamp: 11150 },
-    
-    // Back to beginning - overview scan
-    { id: 25, x: 120, y: 120, duration: 300, timestamp: 11750 },
-    { id: 26, x: 180, y: 200, duration: 250, timestamp: 12050 },
-    { id: 27, x: 200, y: 360, duration: 200, timestamp: 12300 },
-  ]
-};
+// const sampleData: GazeData = {
+//   screenWidth: 900,
+//   screenHeight: 700,
+//   fixations: [
+//     // Function signature - high attention
+//     { id: 1, x: 120, y: 120, duration: 600, timestamp: 0 },
+//     { id: 2, x: 200, y: 120, duration: 450, timestamp: 600 },
+//     { id: 3, x: 280, y: 120, duration: 350, timestamp: 1050 },
+//
+//     // Opening brace scan
+//     { id: 4, x: 380, y: 120, duration: 200, timestamp: 1400 },
+//
+//     // Variable declaration - careful reading
+//     { id: 5, x: 150, y: 160, duration: 500, timestamp: 1600 },
+//     { id: 6, x: 250, y: 160, duration: 400, timestamp: 2100 },
+//     { id: 7, x: 350, y: 160, duration: 300, timestamp: 2500 },
+//
+//     // For loop - complex logic attention
+//     { id: 8, x: 140, y: 200, duration: 800, timestamp: 2800 },
+//     { id: 9, x: 220, y: 200, duration: 600, timestamp: 3600 },
+//     { id: 10, x: 300, y: 200, duration: 500, timestamp: 4200 },
+//     { id: 11, x: 380, y: 200, duration: 400, timestamp: 4700 },
+//
+//     // Inside loop - scanning condition
+//     { id: 12, x: 180, y: 240, duration: 700, timestamp: 5100 },
+//     { id: 13, x: 280, y: 240, duration: 600, timestamp: 5800 },
+//     { id: 14, x: 420, y: 240, duration: 350, timestamp: 6400 },
+//
+//     // Array access pattern
+//     { id: 15, x: 200, y: 280, duration: 450, timestamp: 6750 },
+//     { id: 16, x: 300, y: 280, duration: 500, timestamp: 7200 },
+//     { id: 17, x: 400, y: 280, duration: 300, timestamp: 7700 },
+//
+//     // Return statement - quick scan
+//     { id: 18, x: 160, y: 360, duration: 400, timestamp: 8000 },
+//     { id: 19, x: 240, y: 360, duration: 350, timestamp: 8400 },
+//
+//     // Function call - detailed inspection
+//     { id: 20, x: 150, y: 440, duration: 650, timestamp: 8750 },
+//     { id: 21, x: 250, y: 440, duration: 550, timestamp: 9400 },
+//     { id: 22, x: 350, y: 440, duration: 400, timestamp: 9950 },
+//
+//     // Comment reading
+//     { id: 23, x: 200, y: 480, duration: 800, timestamp: 10350 },
+//     { id: 24, x: 350, y: 480, duration: 600, timestamp: 11150 },
+//
+//     // Back to beginning - overview scan
+//     { id: 25, x: 120, y: 120, duration: 300, timestamp: 11750 },
+//     { id: 26, x: 180, y: 200, duration: 250, timestamp: 12050 },
+//     { id: 27, x: 200, y: 360, duration: 200, timestamp: 12300 },
+//   ]
+// };
 
 export function EyeTrackerVisualizer() {
+
   const canvasRef = useRef<HTMLCanvasElement>(null);
   const heatmapCanvasRef = useRef<HTMLCanvasElement>(null);
   const [currentTime, setCurrentTime] = useState(0);
@@ -86,16 +88,55 @@ export function EyeTrackerVisualizer() {
   const [showHeatmap, setShowHeatmap] = useState(false);
   const [playbackSpeed, setPlaybackSpeed] = useState([1]);
 
-  const totalDuration = Math.max(...sampleData.fixations.map(f => f.timestamp + f.duration));
-  const visibleFixations = sampleData.fixations.filter(f => f.timestamp <= currentTime);
-  const currentFixation = sampleData.fixations.find(f => 
-    f.timestamp <= currentTime && currentTime < f.timestamp + f.duration
+  const [gazeData, setGazeData] = useState<GazeData | null>(null);
+
+  useEffect(() => {
+    async function loadFixations() {
+      const res = await fetch("http://localhost:8000/api/fixations", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({
+          xml_path: "../data/eye_tracking.xml",
+          // Dummy data: get info for tokenizing code
+          code_path: "../Backend/tokenize_code.py",
+          language: "python"
+          // ide_xml_path: "/data/ide_tracking.xml"
+        })
+      });
+
+      const data = await res.json();
+      setGazeData(data);
+    }
+
+    loadFixations();
+  }, []);
+
+//   const totalDuration = Math.max(...sampleData.fixations.map(f => f.timestamp + f.duration));
+  const fixations = gazeData?.fixations ?? [];
+  //const code = gazeData?.code_str ?? "";
+
+  const totalDuration =
+    fixations.length > 0
+    ? Math.max(...gazeData.fixations.map(f => f.start_time + f.duration))
+    : 0;
+  const visibleFixations = fixations.filter(f => f.start_time <= currentTime);
+  const currentFixation = fixations.find(f =>
+    f.start_time <= currentTime && currentTime < f.start_time + f.duration
   );
 
   // Statistics
-  const totalFixations = sampleData.fixations.length;
-  const averageDuration = sampleData.fixations.reduce((sum, f) => sum + f.duration, 0) / totalFixations;
-  const longestFixation = Math.max(...sampleData.fixations.map(f => f.duration));
+  const totalFixations = fixations.length;
+  const averageDuration =
+  totalFixations > 0
+    ? fixations.reduce((sum, f) => sum + f.duration, 0) / totalFixations
+    : 0;
+
+  const longestFixation =
+  totalFixations > 0
+    ? Math.max(...gazeData.fixations.map(f => f.duration))
+    : 0;
+
+
 
   useEffect(() => {
     let animationFrame: number;
@@ -195,34 +236,48 @@ export function EyeTrackerVisualizer() {
     let y = 25;
 
     // JavaScript code with syntax highlighting colors
-    const codeLines = [
-      { text: 'function findMaxElement(arr) {', color: '#DCDCAA', indent: 0 }, // function keyword
-      { text: '  const length = arr.length;', color: '#9CDCFE', indent: 1 }, // variable
-      { text: '  let maxValue = arr[0];', color: '#9CDCFE', indent: 1 },
-      { text: '  let maxIndex = 0;', color: '#9CDCFE', indent: 1 },
-      { text: '', color: '#D4D4D4', indent: 0 },
-      { text: '  for (let i = 1; i < length; i++) {', color: '#C586C0', indent: 1 }, // for loop
-      { text: '    if (arr[i] > maxValue) {', color: '#C586C0', indent: 2 }, // if statement
-      { text: '      maxValue = arr[i];', color: '#9CDCFE', indent: 3 },
-      { text: '      maxIndex = i;', color: '#9CDCFE', indent: 3 },
-      { text: '    }', color: '#D4D4D4', indent: 2 },
-      { text: '  }', color: '#D4D4D4', indent: 1 },
-      { text: '', color: '#D4D4D4', indent: 0 },
-      { text: '  return {', color: '#C586C0', indent: 1 }, // return
-      { text: '    value: maxValue,', color: '#9CDCFE', indent: 2 },
-      { text: '    index: maxIndex', color: '#9CDCFE', indent: 2 },
-      { text: '  };', color: '#D4D4D4', indent: 1 },
-      { text: '}', color: '#D4D4D4', indent: 0 },
-      { text: '', color: '#D4D4D4', indent: 0 },
-      { text: '// Usage example', color: '#6A9955', indent: 0 }, // comment
-      { text: 'const numbers = [3, 7, 2, 9, 1, 5];', color: '#9CDCFE', indent: 0 },
-      { text: 'const result = findMaxElement(numbers);', color: '#9CDCFE', indent: 0 },
-      { text: 'console.log(`Max: ${result.value}`);', color: '#DCDCAA', indent: 0 }, // string
-      { text: '// Output: Max: 9', color: '#6A9955', indent: 0 },
-    ];
+    let code_array = code.split("\n");
+    console.log(code_array);
+    console.log("Hi");
+    for (let i = 0; i < code_array.length; i++)
+    {
+      console.log(line);
+
+    }
+
+    const codeLines = useMemo(() => {
+      return buildCodeLines(code, tokens);
+    }, [code, tokens]);
+
+    //const codeLines = code.split("\n");
+//     const codeLines = [
+//       { text: code_array[0], color: '#DCDCAA', indent: 0 }, // function keyword
+//       { text: '  const length = arr.length;', color: '#9CDCFE', indent: 1 }, // variable
+//       { text: '  let maxValue = arr[0];', color: '#9CDCFE', indent: 1 },
+//       { text: '  let maxIndex = 0;', color: '#9CDCFE', indent: 1 },
+//       { text: '', color: '#D4D4D4', indent: 0 },
+//       { text: '  for (let i = 1; i < length; i++) {', color: '#C586C0', indent: 1 }, // for loop
+//       { text: '    if (arr[i] > maxValue) {', color: '#C586C0', indent: 2 }, // if statement
+//       { text: '      maxValue = arr[i];', color: '#9CDCFE', indent: 3 },
+//       { text: '      maxIndex = i;', color: '#9CDCFE', indent: 3 },
+//       { text: '    }', color: '#D4D4D4', indent: 2 },
+//       { text: '  }', color: '#D4D4D4', indent: 1 },
+//       { text: '', color: '#D4D4D4', indent: 0 },
+//       { text: '  return {', color: '#C586C0', indent: 1 }, // return
+//       { text: '    value: maxValue,', color: '#9CDCFE', indent: 2 },
+//       { text: '    index: maxIndex', color: '#9CDCFE', indent: 2 },
+//       { text: '  };', color: '#D4D4D4', indent: 1 },
+//       { text: '}', color: '#D4D4D4', indent: 0 },
+//       { text: '', color: '#D4D4D4', indent: 0 },
+//       { text: '// Usage example', color: '#6A9955', indent: 0 }, // comment
+//       { text: 'const numbers = [3, 7, 2, 9, 1, 5];', color: '#9CDCFE', indent: 0 },
+//       { text: 'const result = findMaxElement(numbers);', color: '#9CDCFE', indent: 0 },
+//       { text: 'console.log(`Max: ${result.value}`);', color: '#DCDCAA', indent: 0 }, // string
+//       { text: '// Output: Max: 9', color: '#6A9955', indent: 0 },
+//     ];
 
     // Automatically do this, depending on type of file (.py, .tsx, etc)?
-    codeLines.forEach((line, index) => {
+    codeLines.forEach((line, index=0) => {
       if (line.text.trim()) {
         ctx.fillStyle = line.color;
         
@@ -372,7 +427,7 @@ export function EyeTrackerVisualizer() {
     const radius = Math.max(8, Math.min(30, fixation.duration / 20));
     
     // Pulsing effect
-    const pulseRadius = radius + Math.sin((currentTime - fixation.timestamp) / 100) * 5;
+    const pulseRadius = radius + Math.sin((currentTime - fixation.start_time) / 100) * 5;
     
     ctx.strokeStyle = '#ffc107';
     ctx.lineWidth = 3;
@@ -401,6 +456,12 @@ export function EyeTrackerVisualizer() {
   return (
     <div className="w-full h-screen flex flex-col bg-background">
       <div className="flex-1 flex">
+        {!gazeData ? (
+          <div className="flex items-center justify-center h-full">
+            Loading…
+          </div>
+        ) : (
+          <>
         {/* Main visualization area */}
         <div className="flex-1 p-4">
           <Card className="h-full">
@@ -565,7 +626,7 @@ export function EyeTrackerVisualizer() {
                 <div className="flex justify-between items-center">
                   <span className="text-sm">Current Fixation:</span>
                   <Badge variant={currentFixation ? "default" : "outline"}>
-                    {currentFixation ? `#${sampleData.fixations.indexOf(currentFixation) + 1}` : 'None'}
+                    {currentFixation ? `#${gazeData.fixations.indexOf(currentFixation) + 1}` : 'None'}
                   </Badge>
                 </div>
               </CardContent>
@@ -673,6 +734,8 @@ export function EyeTrackerVisualizer() {
             
           </Tabs>
         </div>
+        </>
+        )}
       </div>
     </div>
   );
